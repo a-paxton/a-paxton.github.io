@@ -1,0 +1,47 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item" style="margin-left: 40px">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
+    <br>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" rel="permalink"><i class="fas fa-file-pdf" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.oa_paperurl %}
+      <a href="{{ post.oa_paperurl }}" rel="permalink"><i class="ai ai-fw ai-open-access-square"></i></a>
+    {% endif %}
+    {% if post.githuburl %}
+      <a href="{{ post.githuburl }}" rel="permalink"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if post.osfurl %}
+      <a href="{{ post.osfurl }}" rel="permalink"><i class="ai ai-fw ai-osf"></i></a>
+    {% endif %}
+    {% if post.relatedurl %}
+      <a href="{{ post.relatedurl }}" rel="permalink"><b>∼</b></a>
+    {% endif %}
+    </p>
+ </article>
+</div>
