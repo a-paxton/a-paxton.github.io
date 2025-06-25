@@ -58,10 +58,10 @@ and our work [at our lab website](https://dyscord-lab.github.io/). (If you're an
 undergraduate student interested in working with the lab, please
 [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScxCpwVgjQav5GtNbVnUdEvgmX7sY3qWOaNJ2HH4jndZF4Grw/viewform?usp=sf_link).)
 
-**I am actively recruiting graduate students!** If you are interested in
+<!--- **I am actively recruiting graduate students!** If you are interested in
 working with me, I encourage you to reach out to me by email. I'd love to hear 
 about your interests, how they fit with my lab's interests, and what you might
-be passionate about pursuing as part of our community.
+be passionate about pursuing as part of our community. --->
 
 Previously, I was a postdoctoral scholar working with
 [Tom Griffiths](http://cocosci.princeton.edu/tom/index.php) in the
