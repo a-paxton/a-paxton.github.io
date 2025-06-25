@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+*Note*: This CV is often woefully out of date. For a more complete list, I recommend checking
+out my ORCID or Google Scholar profiles (linked in the sidebar).
+
 ## Education
 
 <p style="margin-left: 40px"><b>Ph.D., Cognitive and Information Sciences</b>
