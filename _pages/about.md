@@ -74,7 +74,7 @@ received my Ph.D in
 [Rick Dale](http://co-mind.org/rick/) at the
 [University of California, Merced](https://www.ucmerced.edu/).
 
-## Some recent work
+## Some recent(-ish) work
 
 {% for post in site.recent %}
   {% include archive-recent.html %}
