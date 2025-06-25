@@ -29,7 +29,7 @@ is an essential part of my scholarly, mentoring, and pedagogical work.
 
 ## About me
 
-I'm an assistant professor in the
+I'm an associate professor in the
 [University of Connecticut](https://uconn.edu/)’s
 [Department of Psychological Sciences](https://psych.uconn.edu/), specifically
  within the
