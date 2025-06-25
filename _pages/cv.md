@@ -17,10 +17,15 @@ redirect_from:
 
 ## Employment
 
+<p style="margin-left: 40px"><b>Associate Professor</b>
+<br>Department of Psychological Sciences
+<br>University of Connecticut
+<br><i>August 2024 — present</i></p>
+
 <p style="margin-left: 40px"><b>Assistant Professor</b>
 <br>Department of Psychological Sciences
 <br>University of Connecticut
-<br><i>August 2018 — present</i></p>
+<br><i>August 2018 — August 2024</i></p>
 
 <p style="margin-left: 40px"><b>Moore-Sloan Data Science Fellow</b>
 <br>Berkeley Institute for Data Science
