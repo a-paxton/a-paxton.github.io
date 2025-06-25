@@ -39,9 +39,6 @@ the [Center for the Ecological Study of Perception and Action](https://cespa.uco
 the [Institute for Collaboration on Health, Intervention, and Policy](https://chip.uconn.edu/);
 the [Connecticut Institute for the Brain and Cognitive Sciences](https://ibacs.uconn.edu/);
 and the [Cognitive Science program](https://cogsci.uconn.edu/).
-I am also a faculty mentor in the
-[Science of Learning and Art of Communication](https://slac.uconn.edu/)
-training program.
 
 I'm proud to lead the [**dyscord lab**](https://dyscord-lab.github.io/).
 Together, we explore the
