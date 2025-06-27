@@ -7,4 +7,5 @@ Driver psychology latent classes as predictors of traffic incident occurrence in
 In
 <i>Proceedings of the Transportation Research Board 2022 Annual Meeting</i>.
 Washington, D.C.: National Academies of Sciences, Engineering, and Medicine.'
+paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/03611981221108985'
 ---
